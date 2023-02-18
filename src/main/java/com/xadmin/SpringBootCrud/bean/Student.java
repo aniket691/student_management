@@ -76,6 +76,7 @@ public class Student {
 		return college_name;
 	}
 
+	//set college name
 	public void setCollege_name(String college_name) {
 		this.college_name = college_name;
 	}
