@@ -3,7 +3,7 @@ To run the project:
 localhost:9111/student:
 
 #EndPoints:
-1. <a href ="localhost:9111/student"> :  method get : get all students
+1. localhost:9111/student :  method get : get all students
 
 2. localhost:9111/student : method post : insert a student
 ex, json object for query : 
